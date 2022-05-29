@@ -1,6 +1,6 @@
 # Calculadora Java Script
 
-![](https://github.com/Deivison-Vitorino/Projeto-JavaScript-Calculadora-Soitech/blob/main/img/design.PNG)
+![](https://github.com/Deivison-Vitorino/Projeto-JavaScript-Calculadora-Soitech/blob/master/img/design.PNG)
 
 **Utilizando JavaScript na lógica da calculadora**
 
